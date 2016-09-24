@@ -1,6 +1,6 @@
 ## Ejercicio 1
 
-En el siguiente códido hay una errara que impide que la animación funcione correctamente. También hay un error en la estructura de las propiedades para asignar la animación al elemento.
+En el siguiente códido hay una errata que impide que la animación funcione correctamente. También hay un error en la estructura de las propiedades para asignar la animación al elemento.
 
 Nos estamos basando en el estándar, por lo que habrá que añadir los prefijos necesarios. Recordad que podés utilizar [Codepen](http://codepen.io/) con el auto prefijo para trabajar de una forma ás ágil.
 
